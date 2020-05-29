@@ -1,7 +1,7 @@
 # Analysis of Zomato Data 
 ## Data Mining Project - 2019
 ---
-In this project the Bangalore restaurdent data analysis is done. Main motive of this project is to get a model to predict the rating of the restaurdent rating using the features of the restaurdent like menu items, location, price range etc.
+In this project the Bangalore restaurant data analysis is done. Main motive of this project is to get a model to predict the rating of the restaurdent rating using the features of the restaurant like menu items, location, price range etc.
 <br>
 So, in this dataset is used of [Kaggle](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants). For the analysis of the data it's 3 versions are used:
 1. Original Dataset.
