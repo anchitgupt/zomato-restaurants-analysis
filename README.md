@@ -1,4 +1,4 @@
-# Analysis of Zomato Data 
+# Zomato Restaurant Rating Prediction
 ## Data Mining Project - 2019
 ---
 In this project the Bangalore restaurant data analysis is done. Main motive of this project is to get a model to predict the rating of the restaurdent rating using the features of the restaurant like menu items, location, price range etc.
